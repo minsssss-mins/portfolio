@@ -11,7 +11,7 @@ export default function Sidebar() {
       />
 
       {/* 이름 */}
-      <h2 className="text-2xl font-bold mb-6">ParkHeonJin</h2>
+      <h2 className="text-2xl font-bold mb-6">ChoiMinSeo</h2>
 
       {/* 네비게이션 */}
       <nav className="w-full">
