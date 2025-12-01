@@ -5,7 +5,7 @@ export default function Home() {
 
       <p className="text-3xl font-bold mb-4">안녕하세요.</p>
       <p className="text-3xl font-bold mb-10">
-        저는 신입 백엔드 개발자 박현진입니다.
+        저는 신입 백엔드 개발자 최민서입니다.
       </p>
 
       <blockquote className="italic text-gray-700 mb-6">
